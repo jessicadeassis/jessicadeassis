@@ -4,7 +4,7 @@ My name is Jessica, I'm passionate about Cloud and Data Science, and looking for
 
 - ☁️ I’m working as Cloud Economics Intern;
 - 📚 I'm currently learning Data Science;
-- 🛡️ I'm soon to be certificated as a Google Analytics Professional.
+- 🛡️ I'm soon to be certificated as a Google Analytics Professional and AZ-900.
 <br>
 
 ![radical](https://github-readme-stats.vercel.app/api?username=jessicadeassis&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
