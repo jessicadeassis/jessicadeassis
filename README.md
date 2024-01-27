@@ -1,10 +1,10 @@
 ## Hello, World!
 
-My name is Jessica, I'm passionate about Cloud and Data Science, and looking for opportunities to apply my analytical and governance skills in challenging projects to drive impactful innovations in this dynamic sector.
+My name is Jessica, I'm passionate about Cloud and Data Science, looking for opportunities to apply my analytical and governance skills in challenging projects to drive impactful innovations in this dynamic sector.
 
 - ☁️ I’m working as Cloud Economics Intern;
-- 📚 I'm currently learning Data Science;
-- 🛡️ I'm soon to be certificated as a Google Analytics Professional and AZ-900.
+- 📚 I'm currently learning about Azure;
+- 🛡️ I'm soon to be certificated in AZ-900.
 <br>
 
 ![radical](https://github-readme-stats.vercel.app/api?username=jessicadeassis&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
