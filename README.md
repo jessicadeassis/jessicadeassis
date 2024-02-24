@@ -1,14 +1,8 @@
-## Hello, World!
+## Hello, World! 👋
 
-My name is Jessica, I'm passionate about Cloud and Data Science, looking for opportunities to apply my analytical and governance skills in challenging projects to drive impactful innovations in this dynamic sector.
-
-- ☁️ I’m working as Cloud Economics Intern;
-- 📚 I'm currently learning about Azure;
-- 🛡️ I'm soon to be certificated in AZ-900.
+As a passionate cloud intern, I delve into Azure, Terraform, PowerBi, Python, and Databricks. Eager to evolve within the realm of cloud and its infrastructure, my GitHub reflects my journey in shaping a robust tech profile. 🚀 #CloudEnthusiast
 <br>
 
-![radical](https://github-readme-stats.vercel.app/api?username=jessicadeassis&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicadeassis&cache_seconds=86400&theme=radical)
 
 ### How to reach me:
 
@@ -20,10 +14,6 @@ My name is Jessica, I'm passionate about Cloud and Data Science, looking for opp
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=9F2B68)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=9F2B68)
-![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r&logoColor=9F2B68)
-![Google_Analytics](https://img.shields.io/badge/Google%20Analytics-000?style=for-the-badge&logo=google%20analytics&logoColor=9F2B68)
-![Mongo](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=9F2B68)
 ![Databricks](https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=Databricks&logoColor=9F2B68)
-![.Net](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=9F2B68)
 ![PowerBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=Power%20BI&logoColor=9F2B68)
-
+![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=Terraform&logoColor=9F2B68)
